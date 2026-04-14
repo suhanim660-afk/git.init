@@ -1,0 +1,7 @@
+git init
+echo "Initial text" > file.txt
+git add file.txt
+git commit -m "Initial commit"
+
+git branch dev1
+git branch dev2
